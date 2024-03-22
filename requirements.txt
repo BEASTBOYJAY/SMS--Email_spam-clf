@@ -1,5 +1,5 @@
 nltk
-stremlit
+streamlit
 sklearn
 string
 pickle
