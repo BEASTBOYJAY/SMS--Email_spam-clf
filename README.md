@@ -52,3 +52,5 @@ The models are trained after preprocessing the dataset, and various techniques l
 ### Evaluation
 The models are evaluated based on metrics such as accuracy, precision, recall, and F1-score.You can go through them in the .pynb file
 
+-----
+Thank you for using the SMS Spam Detection project! We hope this tool helps you in identifying spam messages efficiently. 
